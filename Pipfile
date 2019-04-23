@@ -9,7 +9,6 @@ verify_ssl = true
 requests = "*"
 numpy = "*"
 pillow = "*"
-io = "*"
 flake8 = "*"
 
 [requires]
