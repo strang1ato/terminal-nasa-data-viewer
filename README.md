@@ -13,5 +13,7 @@ Launching:
 pipenv run python main.py
 ```
 
-#Screenshots
+# Screenshots
+![menu](https://github.com/oltarzewskik/terminal-nasa-data-viewer/blob/master/docs/menu.png)
+![apod](https://github.com/oltarzewskik/terminal-nasa-data-viewer/blob/master/docs/apod.png)
 
